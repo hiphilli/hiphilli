@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hiphilli
-- 👀 I’m interested in deep tech, entrepeneuership
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on tech startups
+- 👀 I’m interested in fintech, deep tech.
+- 🌱 I’m currently learning React Native.
+- 💞️ I’m looking to collaborate on web development.
 - 📫 How to reach me: Twitter - @hiphilli Email: hphillips@tyriad.com
 
 <!---
