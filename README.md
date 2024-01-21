@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @hiphilli
-- 👀 I’m interested in fintech, deep tech.
+- 👀 I’m interested in fintech, invest-tech, and deep technology.
 - 🌱 I’m currently learning React Native.
-- 💞️ I’m looking to collaborate on web development.
-- 📫 How to reach me: Twitter - @hiphilli Email: hphillips@tyriad.com
+- 📫 How to reach me: Twitter - @hiphilli Email: hayden5935@gmail.com
 
 <!---
 hiphilli/hiphilli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
